@@ -1,6 +1,5 @@
 # Hamradio
-Hamradio stuff
-Proiect de Duminică 					Autor: Robert Dima (YO8SHU)
+Proiect de Duminică 					
 
 Ceas pentru concurs cu Arduino Nano și RTC
 
